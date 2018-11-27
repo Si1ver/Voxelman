@@ -11,6 +11,8 @@ Desktop.ini
 *.csproj
 *.sln
 *.swp
+/.vs
+/obj
 
 # Unity
 /Library
